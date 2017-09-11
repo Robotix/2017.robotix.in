@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://2017.robotix.in/sitemap.xml

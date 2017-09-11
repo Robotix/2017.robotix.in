@@ -1,0 +1,130 @@
+-
+  id: 001
+  title: "KRAIG 101"
+  description: "Dive into the world of hobby robotics."
+  subtype: presentation
+  speakers: [10, 11]
+  language: en
+  complexity: "Beginner"
+  links:
+    - { title: "View presentation", src: "https://prezi.com/nisa23s1efrv/kraig-101"}
+  banner: "/img/session/001/poster.jpg"
+-
+  id: 002
+  title: "KRAIG 102"
+  description: "Building your own robosoccer bot!"
+  subtype: presentation
+  speakers: [14, 13, 15, 16]
+  language: en
+  complexity: "Intermediate"
+  links:
+    - { title: "View presentation", src: "https://prezi.com/sh5ksfhq9vuc/kraig-102/"} 
+  video: "https://circuits.io/circuits/2578473-relay-example-with-motor/embed#breadboard"
+-
+  id: 006
+  title: "Visual Pose Estimation for a Mobile Manipulator"
+  description: "Visual Pose Estimation for a Mobile Manipulator, by Shushman Chowdhury"
+  subtype: presentation
+  language: en
+  speakers: [6]
+  links:
+    - { title: "View presentation", src: "https://www.robotix.in/assets/kriss/13-08-2014/KRISS01.pdf"}
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Visual odometry in smoke-occluded environments"
+  description: "Visual odometry in smoke-occluded environments, by Aditya Agarwal"
+  subtype: presentation
+  language: en
+  speakers: [5]
+  links:
+    - { title: "View presentation", src: "https://www.robotix.in/assets/kriss/04-09-2014/KRISS02.pdf"}
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Visual Attributes for Enhanced Human-Machine Communication"
+  description: "Visual Attributes for Enhanced Human-Machine Communication and 'Modeling the shape of a scene : A holistic representation of the spatial envelope', by Anchit Navelkar"
+  subtype: presentation
+  language: en
+  speakers: [4]
+  links:
+    - { title: "View presentation", src: "https://www.robotix.in/assets/kriss/04-09-2014/KRISS02-1.pdf"}
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Fuzzy based PID Motor Control"
+  description: "Fuzzy based PID Motor Control, by Ashish Daga"
+  subtype: presentation
+  language: en
+  speakers: [9]
+  links:
+    - { title: "View presentation", src: "https://www.robotix.in/assets/kriss/16-10-2014/KRISS03.pdf"}
+  complexity: "Intermediate"
+-
+  id: 010
+  title: "Real-Time RGB-D based People Detection and Tracking for Mobile Robots"
+  description: "Real-Time RGB-D based People Detection and Tracking for Mobile Robots, by Kumar Krishna Agarwal"
+  subtype: presentation
+  language: en
+  speakers: [7]
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Quantization Noise in Advanced LIGO Digital Control Systems"
+  description: "Real-Time RGB-D based People Detection and Tracking for Mobile Robots, by Ayush Pandey"
+  subtype: presentation
+  language: en
+  speakers: [8]
+  links:
+    - { title: "View presentation", src: "https://www.robotix.in/assets/kriss/01-09-2015/KRISS04.pdf"}
+  complexity: "Intermediate"
+-
+  id: 003
+  title: "KRAIG 201"
+  description: "Workshop on advanced manual robotics. Arm, Forklift, Shooting, Stair Climbing Mechanisms"
+  subtype: presentation
+  speakers: [11, 17]
+  language: en
+  complexity: "Intermediate"
+  links:
+    - { title: "View presentation", src: "https://prezi.com/nug_jpjtcmtc/kraig-201-202"}
+-
+  id: 004
+  title: "KRAIG 301"
+  description: "Workshop on introduction to autonomous robotics. LED-LDR sensors, IR LED-Photodiode Pairs, Comparators and Op Amps."
+  subtype: presentation
+  speakers: [13, 15]
+  language: en
+  complexity: "Intermediate"
+  links:
+    - { title: "View presentation", src: "https://prezi.com/zhkbtvohfypc/kraig-301/"}
+-
+  id: 005
+  title: "KRAIG 302"
+  description: "Workshop on autonomous robotics: Timers ,PWM and Motor Drivers."
+  subtype: presentation
+  speakers: [14, 16]
+  language: en
+  complexity: "Intermediate"
+  links:
+    - { title: "View presentation", src: "https://prezi.com/w1rfgz116ixk/kraig-302/"}
+
+-
+  id: 012
+  title: "Adamas University Workshop"
+  subtype: presentation
+  speakers: [18, 19]
+  language: en
+  complexity: "Beginner"
+  links:
+    - { title: "View Presentation", src: "/blog/Adamas-University-Workshop/" }
+
+-
+  id: 013
+  title: "Benett University Workshop"
+  subtype: presentation
+  speakers: [13, 16]
+  language: en
+  complexity: "Beginner"
+  links:
+    - {title: "View Presentation", src: "/blog/noida-workshop-2017/"}
